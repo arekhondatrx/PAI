@@ -1,0 +1,146 @@
+	body 
+	{
+		background-color: #303030;
+		color: #ffffff;
+		
+	}
+	
+	#pojemnik
+	{
+	width:1300px;
+	margin-left:auto;
+	margin-right:auto;
+	
+	
+	
+	}
+	
+	#logo
+	{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 2px;
+	font-family:'Josefin Sans',sans-serif;
+	font-size: 40px;
+	}
+	
+	#lewy
+	{
+	float:left;
+	background-color:#393530;
+	width: 180px;
+	min-height: 600px;
+	font-family:'Josefin Sans',sans-serif;
+	font-size: 20;
+	color: black;
+	}
+	
+	#prawy
+	{
+	float:left;
+	background-color:#393530;
+	width: 220px;
+	min-height: 600px;
+	font-family:'Josefin Sans',sans-serif;
+	font-size: 20;
+	color: black;
+	text-align: center;
+	
+	}
+	
+	.p 
+	{
+		text-align: left;
+		font-size: 20;
+		margin: 5px;
+	}
+	
+	#srodek
+	{
+	float: left;
+	padding: 20px;
+	width: 860px;
+	text-align: center;
+	}
+	
+	
+	
+
+	
+	#stopka
+	{
+	clear: both;
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 15px;
+	}
+	
+	.t1
+	{
+		margin: 10px;
+		width: 160px;
+		height: 99px;
+		background-color: #3095d3;
+		text-align: center;
+		color: #ffffff;
+		
+		
+	}
+	.t1:hover
+	{
+		background-color: #1074b1;
+	}
+	
+	.t2
+	{
+		margin: 10px;
+		width: 200px;
+		height: 124px;
+		background-color: #3095d3;
+		text-align: center;
+		color: #ffffff;
+		
+		
+	}
+	.t3
+	{
+		margin: 10px;
+		width: 200px;
+		height: 50px;
+		background-color: #3095d3;
+		text-align: center;
+		color: #ffffff;
+		font-size: 35px;
+		
+		
+	}
+	
+	.square
+	{
+		width:99%;
+		float: left;
+	}
+	
+	a.tilelink
+{
+	color: #ffffff;
+	text-decoration: none;
+	display: block;
+	width: 160px;
+	height: 99px;
+}
+#zegar
+	{
+		margin: 10px;
+		width: 160px;
+		height: 99px;
+		background-color: #3095d3;
+		text-align: center;
+		color: #ffffff;
+		font-size:35px;
+		
+		
+	}
+	
